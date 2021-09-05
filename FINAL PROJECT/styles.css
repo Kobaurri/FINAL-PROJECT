@@ -1,0 +1,401 @@
+.navbar {
+	padding: 30px;
+}
+
+.navbar > li {
+	display: inline-block;
+	margin-left: 30px;
+}
+
+.navbar >li >a {
+	font-size: 20px;
+	color: black;
+
+}
+
+img {
+	font-size: 1000px;
+}
+
+.main-content {
+	background-image: url(first.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 700px;
+	margin-bottom: 100px;
+
+
+}
+
+.first {
+	font-size: 48px;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	color: white;
+	max-width: 550px;
+	font-weight: bold;
+}
+
+.get {
+    margin-left: 200px;
+	top: 80%;
+	position: absolute;
+}
+
+
+.second {
+	font-size: 30px;
+	text-align: center;
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	color: white;
+}
+
+
+.secone {
+	width: 350px;
+	height: 230px;
+	display: inline-block;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	margin: 10px 15px;
+	background-image: url(images/twoo.png);
+	background-position: center;
+	background-size: cover;
+	float: left;
+	margin-left: 130px;
+}
+
+
+
+.sectwo {
+	width: 350px;
+	height: 230px;
+	display: inline-block;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	margin: 10px 15px;
+	background-image: url(images/will.png);
+	background-position: center;
+	background-size: cover;
+	float: left;
+	margin-left: 20px;
+
+
+}
+
+.secthree {
+	width: 350px;
+	height: 230px;
+	display: inline-block;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	margin: 10px 15px;
+	background-image: url(images/doo.png);
+	background-position: center;
+	background-size: cover;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 100px;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
+
+
+.seccia {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 25px;
+}
+
+.classic {
+    top: 50%;
+    position: ;
+    margin-left: 80px;
+}
+
+
+.textfour{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.secc {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 25px;
+}
+
+.standart {
+    top: 50%;
+    position: ;
+    margin-left: 80px
+}
+
+.textfive {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.seccc {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 25px;
+}
+
+.premium {
+	top: 50%;
+    position: ;
+    margin-left: 80px
+}
+
+
+
+.readmore {
+	margin-left: 100px;
+	top: 80%;
+
+}
+
+
+
+
+.picone {
+	text-align: center;
+	max-width: 300px;
+	position: ;
+	color: black;
+	font-size: 30px;
+	margin-left: 50px;
+
+}
+
+.lineone {
+	margin-left: 70px;
+	width: 80px;
+	margin-bottom: 10px;
+
+}
+
+.fitnes {
+    font-size: 20px;
+    color: orangered;
+    max-width: 400px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+
+}
+
+.gym {
+	max-width: 400px;
+	color: grey;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-bottom: 70px;
+	float: left;
+
+}
+
+
+
+.gymgroup {
+	float: right;
+	margin-bottom: 20px;
+	margin-right: 90px;
+	margin-bottom: 400px;
+}
+
+.our {
+	font-size: 48px;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	color: white;
+	max-width: 550px;
+	font-weight: bold;
+}
+
+.with {
+	margin-bottom: 450px;
+}
+
+.font {
+	background-image: url(images/grey.png);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 900px;
+	margin-bottom: 300px;
+
+}
+
+.texttt {
+	margin-bottom: 100px;
+}
+
+.ourclass {
+	text-align: center;
+	color: white;
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 40%;
+	font-size: 50px;
+	
+}
+
+.if {
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	position: absolute;
+	max-width: 1000px;
+	margin-top: 12%;
+	margin-left: 10%;
+}
+
+.newfont {
+	height: 100px;
+	flex-direction: column;
+
+}
+
+
+.column {
+	height: 100px;
+	flex-direction: column;
+
+}
+
+.class {
+	font-size: 48px;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	color: red;
+	max-width: 550px;
+	font-weight: bold;
+}
+
+.fit {
+	float: left;
+	width: 25%;
+}
+
+.fitt {
+	float: left;
+	width: 33.3%;
+}
+
+.meett {
+	text-align: center;
+	max-width: 400px;
+	position: ;
+	color: black;
+	font-size: 60px;
+	margin-left: 500px;
+	margin-bottom: 20px;
+}
+
+.linn {
+	width: 110px;
+	margin-bottom: 50px;
+	margin-left: 630px;
+}
+
+.textfit {
+	max-width: 900px;
+	font-size: 25px;
+	margin-left: 250px;
+	margin-bottom: 50px;
+}
+
+.body {
+	width: 300px;
+	padding: 5px 5px;
+	float: left;
+	margin-left: 100px;
+	margin-bottom: 100px;
+}
+
+.blue {
+	margin-left: 500px;
+	margin-bottom: 200px;
+}
+
+.blackone {
+	background-image: url(images/black.png);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 700px;
+	margin-bottom: 200px;
+}
+
+.test {
+	font-size: 60px;
+	color: white;
+	padding: 100px;
+	text-align: center;
+	margin-bottom: none;
+
+}
+
+.blackline {
+	margin-left: 600px;
+	width: 150px;
+	margin-bottom: 20px;
+	padding: 10px;
+	display: flex;
+	margin-bottom: 70px;
+}
+
+.lorem {
+	color: white;
+	font-size: 30px;
+	max-width: 750px;
+	margin-left: 300px;
+}
+
+.keep {
+	text-align: center;
+	max-width: 400px;
+	position: ;
+	color: black;
+	font-size: 60px;
+	margin-left: 500px;
+	margin-bottom: 20px;
+}
+
+.more {
+	width: 110px;
+	margin-bottom: 70px;
+	margin-left: 650px;
+}
+
+.see {
+	margin-left: 350px;
+	margin-bottom: 150px;
+}
+
+.sky {
+	margin-left: 550px;
+	margin-bottom: 200px;
+}
